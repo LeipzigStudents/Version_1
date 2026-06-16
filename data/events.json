@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Erasmus Welcome Party",
+    "date": "2026-06-25",
+    "location": "Leipzig City Center",
+    "description": "Meet international students and make new friends.",
+    "organizer": "Erasmus Leipzig",
+    "price": "Free",
+    "address": "Augustusplatz 10, Leipzig",
+    "website": "https://example.com"
+  },
+  {
+    "id": 2,
+    "title": "Techno Night",
+    "date": "2026-06-27",
+    "location": "Leipzig Club",
+    "description": "Electronic music all night with local DJs."
+  },
+  {
+    "id": 3,
+    "title": "Board Games Evening",
+    "date": "2026-06-30",
+    "location": "Student Café",
+    "description": "Bring friends and enjoy a relaxed evening."
+  }
+]
